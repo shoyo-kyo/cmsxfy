@@ -88,11 +88,9 @@ do ->
     },
     view: function(ctrl) {
       return [
-        {
-          tag: "div",
-          attrs: {},
-          children: ["aaaaaaaa"]
-        }
+          { tag: "div", attrs: {}, children: ["aaaaaaaa"] },
+          { tag: "div", attrs: {}, children: ["aaaaaaaa"] },
+          { tag: "div", attrs: {}, children: ["aaaaaaaa"] }
       ];
     }
   };
