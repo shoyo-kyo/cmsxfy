@@ -23,6 +23,7 @@
   "devDependencies": {
     "browserify": "^9.0.3",
     "browserify-transform-tools": "^1.2.1",
+    "cmsx": "^0.2.0",
     "debug": "^2.1.2",
     "gulp": "^3.8.7",
     "gulp-bump": "^0.2.2",
